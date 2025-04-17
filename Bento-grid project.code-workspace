@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../gitclass"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Bento-grid project"
+	}
+}
